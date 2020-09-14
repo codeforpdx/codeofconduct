@@ -1,9 +1,10 @@
 codeofconduct
 =============
 
-#### Code for America's Code of Conduct
+Code for PDX is a Code for America Brigade
+Forked and Modified from [CFA Code of Conduct](https://github.com/codeforamerica/codeofconduct){:target="_blank"}
 
-The Code for America community expects that Code for America network activities, events, and digital forums:
+#### The Code for PDX community expects that network activities, events, and digital forums: 
 
 1. Are a safe and respectful environment for all participants.
 2. Are a place where people are free to fully express their identities.
@@ -18,9 +19,9 @@ The Code for America community expects that Code for America network activities,
 11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 12. Provide an environment where people are free from discrimination or harassment.
 
-Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
+Code For PDX, as a brigade of Code For PDX, reserves the right to ask anyone in violation of these policies not to participate in Code for PDX network activities, events, and digital forums.
 
-#### Code for America's Anti-Harassment Policy
+#### Code for PDX Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -28,11 +29,11 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 * * * 
 
-All Code for America network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+All Code for PDX network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
+In addition to governing our own events by this policy, Code for America will only lend their brand and funding to Code for PDX and groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
 
-Code for America is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may be expelled from Code for America network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+Code for America (and, by extension, Code for PDX) is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may be expelled from Code for America network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
