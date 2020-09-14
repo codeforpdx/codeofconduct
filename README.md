@@ -1,8 +1,8 @@
 codeofconduct
 =============
 
-Code for PDX is a Code for America Brigade
-Forked and Modified from [CFA Code of Conduct](https://github.com/codeforamerica/codeofconduct){:target="_blank"}
+### Code for PDX is a Code for America Brigade
+#### Forked and Modified from <a href="https://github.com/codeforamerica/codeofconduct" target="_blank">CFA Code of Conduct </a>
 
 #### The Code for PDX community expects that network activities, events, and digital forums: 
 
