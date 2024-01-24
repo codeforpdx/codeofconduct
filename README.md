@@ -43,7 +43,7 @@ You can also contact CODE PDX about harassment by emailing **admin**@**codepdx.o
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-**Email Template for Anti-Harassment Reporting**
+## Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
